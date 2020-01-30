@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import MultiSelect from "./mSelect";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<MultiSelect />, document.getElementById("root"));
